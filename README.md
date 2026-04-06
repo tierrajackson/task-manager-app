@@ -15,3 +15,5 @@ A responsive task manager built with React.
 
 ## Purpose
 This project demonstrates state management, component structure, and persistent data handling in a modern React application.
+## Live Demo
+🚧 Coming soon
